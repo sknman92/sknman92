@@ -26,6 +26,9 @@ I'm a data engineer in training, currently expanding my skills through an extens
 - Tableau Certified Data Analyst — 2023
 - Alteryx Designer Core — 2022
 
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="11e42d4c-3dd4-4e27-9ce4-870305666b8d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async     src="//cdn.credly.com/assets/utilities/embed.js">
+
 ## Get in Touch
 I'm open to collaborations and new opportunities. Share your preferred way to connect: email, LinkedIn, or GitHub.
 
