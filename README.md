@@ -25,6 +25,12 @@ I'm a data engineer in training, currently expanding my skills through an extens
 - Alteryx Advanced — 2023
 - Tableau Certified Data Analyst — 2023
 - Alteryx Designer Core — 2022
+  
+<div align="center">
+  <img src="https://github.com/sknman92/charles.yi.github.io/blob/main/Certification_Designer_Advanced.png?raw=true" width="19%">
+  <img src="https://github.com/sknman92/charles.yi.github.io/blob/main/tableau_data_analyst.png?raw=true" width="19%">
+  <img src="https://github.com/sknman92/charles.yi.github.io/blob/main/DBT%20AE.png?raw=true" width="19%">
+</div>
 
 ## Get in Touch
 I'm open to collaborations and new opportunities. Share your preferred way to connect: email, LinkedIn, or GitHub.
