@@ -35,5 +35,5 @@ I'm a data engineer in training, currently expanding my skills through an extens
 ## Get in Touch
 I'm open to collaborations and new opportunities. Share your preferred way to connect: email, LinkedIn, or GitHub.
 
-- [Email](c14hcharles.yi@gmail.com)
-- [LinkedIn](www.linkedin.com/in/charles-yi-8b5a3b142)
+- Email: c14hcharles.yi@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/charles-yi-8b5a3b142)
