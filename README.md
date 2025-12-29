@@ -1,6 +1,6 @@
 # About Me
 
-I'm a data engineer in training, currently expanding my skills through an extension course. I focus on building reliable analytics pipelines, improving data quality, and enabling actionable business insights.
+I am a data analyst with expertise in Tableau, Alteryx, Python, and related tools, with growing responsibility in analytics engineering—building reliable analytics pipelines, improving data quality, and enabling actionable business insights.
 
 ## What I Do
 - Design and maintain ETL/ELT workflows
