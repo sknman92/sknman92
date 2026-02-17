@@ -18,6 +18,7 @@ I am a data analyst with expertise in Tableau, Alteryx, Python, and related tool
 - SQL, data modeling, ETL/ELT concepts
 - Tableau, Alteryx, Python
 - Version control (Git), basic DevOps concepts
+- Orchestration (Prefect)
 
 ## Certifications & Achievements
 - dbt Analytics Engineering — 2025
